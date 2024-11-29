@@ -2,7 +2,7 @@
 This repository contains the deliverables for Assignment 3 of the Scripting Languages unit, focusing on developing and demonstrating a Bash-based log parsing script with advanced functionality.
 
 ## Overview
-The objective of this project is to create a Bash script, logparserpro.sh, that extends log parsing capabilities with advanced features such as command-line flag processing, input validation, and file management. The project also includes a 10-minute professional video presentation detailing the development process, challenges, and insights gained.
+The objective of this project is to create a Bash script, logparserpro.sh, that extends log parsing capabilities with advanced features such as command-line flag processing, input validation, and file management.
 
 ## Script Functionality
 ### Features
