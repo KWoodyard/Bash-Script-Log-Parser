@@ -1,4 +1,4 @@
-# Assignment 3: Software-Based Solution (Script)
+# Software-Based Solution (Script)
 This repository contains the deliverables for Assignment 3 of the Scripting Languages unit, focusing on developing and demonstrating a Bash-based log parsing script with advanced functionality.
 
 ## Overview
